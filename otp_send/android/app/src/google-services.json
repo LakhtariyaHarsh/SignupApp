@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353163206050",
+    "project_id": "otp-authentication-d2aa2",
+    "storage_bucket": "otp-authentication-d2aa2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353163206050:android:a578ccf4c8cf24bcf566fb",
+        "android_client_info": {
+          "package_name": "com.example.otp_send"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQ13u1uz3BYC2VDO36vtajcz3YZJ8EQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
